@@ -1,5 +1,5 @@
 # Smart Boot
-[![Java CI](https://img.shields.io/github/actions/workflow/status/abelethan/smart-boot/ci.yaml?branch=main&logo=github&logoColor=white)](https://github.com/abelethan/smart-boot/actions/workflows/ci.yaml)
+[![Java CI](https://img.shields.io/github/actions/workflow/status/abelethan/smart-boot/maven.yml?branch=main&logo=github&logoColor=white)](https://github.com/abelethan/smart-boot/actions/workflows/maven.yml)
 [![Codecov](https://img.shields.io/codecov/c/github/abelethan/smart-boot/main?logo=codecov&logoColor=white)](https://codecov.io/gh/abelethan/smart-boot/branch/main)
 [![GitHub release](https://img.shields.io/github/release/abelethan/smart-boot)](https://github.com/abelethan/smart-boot/releases)
 [![Java support](https://img.shields.io/badge/Java-8+-green?logo=java&logoColor=white)](https://openjdk.java.net/)
