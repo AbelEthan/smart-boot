@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.zmqx</groupId>
     <artifactId>smart-boot</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>23.12.001-SNAPSHOT</version>
     <name>smart-boot</name>
     <description>smart-boot</description>
     <properties>
@@ -13,6 +13,13 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <spring-boot.version>2.7.6</spring-boot.version>
     </properties>
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub OWNER Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/abelethan/smart-boot</url>
+        </repository>
+    </distributionManagement>
     <dependencyManagement>
         <dependencies>
             <dependency>
